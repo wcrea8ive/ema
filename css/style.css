@@ -1,0 +1,90 @@
+.ema-img img{
+	width:160px;
+	height:55px;
+	margin-left:10px; 
+	margin-top:5px
+
+}
+
+.signature-img{
+	margin-top:-25px;
+	margin-right:40px;
+}
+
+.nav-wrapper a{
+	font-size: 15px;
+}
+.bread-crumb{
+	line-height: 50px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/*.card:hover{
+	box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);
+}*/
+
+
+#map {
+    height: 300px;
+    width: 100%;
+}
+.resize-font{
+	font-size: 13px;
+}
+.resize-font2{
+	font-size: 10px;
+}
+
+@media screen and (min-width: 665px) {
+   .resize-font{
+	font-size: 9px;
+	}
+	.resize-font2{
+	font-size: 7px;
+	}
+}
+
+@media screen and (min-width: 735px) {
+   .resize-font{
+	font-size: 9px;
+	}
+	.resize-font2{
+	font-size: 8px;
+	}
+}
+
+@media screen and (min-width: 736px) {
+	.resize-font2{
+	font-size: 8px;
+	}
+}
+
+@media screen and (min-width: 900px) {
+	.resize-font{
+	font-size: 11px;
+}
+	.resize-font2{
+	font-size: 9px;
+}
+}
+
+@media screen and (min-width: 1025px) {
+	.resize-font{
+	font-size: 13px;
+}
+	.resize-font2{
+	font-size: 10px;
+}
+}
+
+
+
+
+
